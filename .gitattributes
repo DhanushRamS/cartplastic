@@ -1,0 +1,4 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+C:/Users/dsrikonda/OneDrive[[:space:]]-[[:space:]]Adobe/Desktop/cartsss/model_backend filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
